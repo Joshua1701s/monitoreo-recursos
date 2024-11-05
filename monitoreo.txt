@@ -1,0 +1,6 @@
+Tiempo(s)	CPU_libre (%)	Memoria_libre (%)	Disco_libre (%)
+60             	95             	266                 	196M           
+120            	96             	266                 	196M           
+180            	99             	266                 	196M           
+240            	97             	265                 	196M           
+300            	97             	265                 	196M           
